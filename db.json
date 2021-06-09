@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstname": "Ryan",
+      "lastname": "MENHOUR",
+      "id": 1,
+      "email": "ryan@gmail.com",
+      "jobTitle": "Doctor & Search",
+      "phone": "0111223341"
+    },
+    {
+      "firstname": "Merzouk",
+      "lastname": "MENHOUR",
+      "id": 2,
+      "email": "merzouk@gmail.com",
+      "jobTitle": "JavaScript & Angular",
+      "phone": "0659271042"
+    },
+    {
+      "firstname": "Assia",
+      "lastname": "MENHOUR",
+      "id": 3,
+      "email": "assia@gmail.com",
+      "jobTitle": "Professor",
+      "phone": "0659271043"
+    }
+  ]
+}
