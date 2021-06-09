@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 create node_modules directory
 
+## json-server 
+
+npm i -g json-server
+
+##concurrently
+
+npm i --save concurrently
+
 ## database server
  
 install json-server, this tools manage localy database 
