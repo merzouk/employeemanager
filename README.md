@@ -10,7 +10,7 @@ create node_modules directory
 
 npm i -g json-server
 
-##concurrently
+## concurrently
 
 npm i --save concurrently
 
